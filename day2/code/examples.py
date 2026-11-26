@@ -1,6 +1,6 @@
 # ----- Data types -----
 product_name = "Notebook"   # str: text
-stock_quantity = 25         # int: whole number
+stock_quantity = 50        # int: whole number
 price = 12.50               # float: decimal number
 is_available = True         # bool: True or False
 supplier = None             # None: no value yet
